@@ -1,0 +1,8 @@
+{
+  "name": "eCornell-jupyterLab-hints",
+  "type": "helper",
+  "properties": {
+    "user_type": "learner", 
+    "component": "all"
+  }
+}
